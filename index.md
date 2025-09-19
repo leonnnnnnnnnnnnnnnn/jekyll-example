@@ -1,6 +1,6 @@
 ---
 layout: home
-title: '<span font-family="Lobster">The MUSE</span>'
+title: '<span style="font-family: Lobster">The MUSE</span>'
 excerpt: Join a history of winners and dreamers! 
 header:
     overlay_image: /assets/images/roulette.jpg
