@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Welcome Home!
-excerpt: This is a test excerpt 
+title: The MUSE 
+excerpt: An exotic place to earn generational wealth overnight!  
 header:
     overlay_image: /assets/images/trees.jpg
     actions: 
@@ -11,4 +11,4 @@ header:
 
 ---
 
-# Home Page
+# Home Page 
