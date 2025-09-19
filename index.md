@@ -1,7 +1,7 @@
 ---
 layout: home
-title: '<span style="color:gold;">The MUSE</span>'
-excerpt: '<span style="color:black">Become a part of history of winners and dreamers!</span>'  
+title: '<span font-family="Lobster">The MUSE</span>'
+excerpt: 'Become a part of history of winners and dreamers! 
 header:
     overlay_image: /assets/images/roulette.jpg
     actions: 
