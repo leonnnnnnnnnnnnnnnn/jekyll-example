@@ -11,6 +11,4 @@ header:
 
 ---
 
-.
-
 # Home Page 
