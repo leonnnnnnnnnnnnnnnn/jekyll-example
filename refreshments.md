@@ -12,8 +12,8 @@ layout: single
 
 **Non-Alcoholic**  
 - Tropical smoothie
-    - *Mango*------------------**$8**
-    - *Pineapple*--------------**$8**
-    - *Coconut*----------------**$8**
-- Virgin Mojito ---------------**$15** 
+    - *Mango*-----------------------------------**$8**
+    - *Pineapple*-------------------------------**$8**
+    - *Coconut*---------------------------------**$8**
+- Virgin Mojito --------------------------------**$15** 
     - Rereshing mint and lime, no alcohol 
