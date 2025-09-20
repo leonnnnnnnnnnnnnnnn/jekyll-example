@@ -8,7 +8,6 @@ header:
         - label: "Explore"
           url: /about 
     overlay_filter: rgba(0, 0, 0, .2)
-
 ---
 
 # Home Page 
