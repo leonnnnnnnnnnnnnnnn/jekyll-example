@@ -5,6 +5,6 @@ main:
     url: /history
   - title: "Stakes"
     url: /stakes
-  - title: "Dining"
-    url: /dining
+  - title: "Refreshments"
+    url: /refreshments
     
