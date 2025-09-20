@@ -1,5 +1,5 @@
 --- 
-title: History
+title: <p style="text-align:center">History</p>
 layout: single 
 ---
 
