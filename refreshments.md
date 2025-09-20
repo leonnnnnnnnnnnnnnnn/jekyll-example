@@ -15,12 +15,12 @@ layout: single
 - Tropical smoothie - mango, pineapple, and coconut
 - Virgin Mojito - rereshing mint and lime, no alcohol 
 
-### Light Bites
+**Light Bites**
 - Artisanal cheese and charcuterie platters  
 - Gourmet nuts - roasted almonds and cashews   
 - Sliders and Mini Sandwiches 
 
-### VIP / Exclusive Options
+**VIP / Exclusive Options**
 - Personalized cocktail service  
 - Champagne towers for private tables  
 - Specialty caviar and luxury snacks 
