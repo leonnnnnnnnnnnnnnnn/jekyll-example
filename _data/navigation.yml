@@ -1,4 +1,10 @@
 main: 
   - title: "About"
     url: /about 
+  - title: "History"
+    url: /history
+  - title: "Activities"
+    url: /activities
+  - title: "Dining"
+    url: /dining
     
