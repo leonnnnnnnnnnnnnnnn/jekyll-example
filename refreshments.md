@@ -3,7 +3,8 @@ title: <p style="text-align:center">Refreshments</p>
 layout: single 
 ---
 
-### Beverages
+<h3 style="text-align:center;">Beverages</h3>
+
 **Cocktails & Spirits**  
 - Mojitos 
 - Martinis 
