@@ -6,14 +6,14 @@ layout: single
 <h3 style="text-align:center;">Beverages</h3>
 
 **Cocktails & Spirits**  
-- Mojitos 
-- Cabernet Sauvignon  
-- Prosecco
+- Mojitos- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - **$8** 
+- Cabernet Sauvignon- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - **$10**  
+- Prosecco- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - **$7** 
 
 **Non-Alcoholic**  
 - Tropical smoothie
-    - *Mango*- - - - - - - - - - - - - - - - -**$8**
-    - *Pineapple*- - - - - - - - - - - - - - -**$8**
-    - *Coconut*- - - - - - - - - - - - - - - -**$8**
-- Virgin Mojito*- - - - - - - - - - - - - - -**$15** 
+    - *Mango*- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**$8**
+    - *Pineapple*- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**$8**
+    - *Coconut*- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**$8**
+- Virgin Mojito*- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - **$15** 
     - Rereshing mint and lime, no alcohol 
