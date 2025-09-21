@@ -7,8 +7,8 @@ layout: single
 
 **Cocktails & Spirits**  
 - Mojitos - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**$8** 
-- Cabernet Sauvignon- - - - - - - - - - - - - - - - - - - - - - - - - - - -**$10**  
-- Prosecco- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**$7** 
+- Cabernet Sauvignon- - - - - - - - - - - - - - - - - - - - - - - - -**$10**  
+- Prosecco- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**$7** 
 
 **Light Snacks**  
 - Mini Sliders 
