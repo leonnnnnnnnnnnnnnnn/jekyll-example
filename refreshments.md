@@ -3,8 +3,6 @@ title: <p style="text-align:center">Refreshments</p>
 layout: single 
 ---
 
-<h3 style="text-align:center;">Beverages</h3>
-
 **Cocktails & Spirits**  
 - Mojitos - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**$8** 
 - Cabernet Sauvignon    - - - - - - - - - - - - - - - - - - - - - - - -**$10**  
